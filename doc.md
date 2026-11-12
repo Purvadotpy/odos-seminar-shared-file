@@ -77,8 +77,9 @@ _Additional details (file formats, image resolution, approximate size, metadata 
 **About the study:** The study combined high-frequency seismic and gas emission data from field instruments near Mount Etna. It found that rises in gas emissions and changes in seismic tremor appeared before periods of eruptive activity, suggesting that monitoring both together gives earlier and more reliable warning than either signal alone.
 
 ### Group members
-- ...
-- ...
+- Irmak Özdemir
+- Serap Türk
+- Nathanael Sheehan
 
 ### About our data
 **Volcanology Sensor Dataset** – high-frequency seismic and gas emission data from field instruments near Mount Etna.
