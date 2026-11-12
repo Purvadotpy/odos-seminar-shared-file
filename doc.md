@@ -77,9 +77,8 @@ _Additional details (file formats, image resolution, approximate size, metadata 
 **About the study:** The study combined high-frequency seismic and gas emission data from field instruments near Mount Etna. It found that rises in gas emissions and changes in seismic tremor appeared before periods of eruptive activity, suggesting that monitoring both together gives earlier and more reliable warning than either signal alone.
 
 ### Group members
-- Irmak Özdemir
-- Serap Türk
-- Nathanael Sheehan
+- ...
+- ...
 
 ### About our data
 **Volcanology Sensor Dataset** – high-frequency seismic and gas emission data from field instruments near Mount Etna.
@@ -124,8 +123,10 @@ _Additional details (instruments, sampling rate, time period, file formats, appr
 **About the study:** The study used hydrophone recordings from the North Sea to monitor whale communication alongside ship noise. It found that when ship noise was high, whales called less often and changed the pitch and loudness of their calls, indicating that shipping noise interferes with their ability to communicate.
 
 ### Group members
-- ...
-- ...
+- Justine
+- Qurat ul Ain
+- Atena
+- Eli
 
 ### About our data
 **Marine Acoustic Monitoring** – hydrophone recordings from the North Sea monitoring whale communication and ship noise.
