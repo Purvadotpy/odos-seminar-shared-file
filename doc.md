@@ -202,8 +202,9 @@ _Additional details (interview length, language(s), transcripts, consent forms, 
 ### Where we will put our software / code
 
 | Platform (e.g. GitHub, GitLab) | Archiving & DOI (e.g. Zenodo, Software Heritage) | Software licence | Documentation / environment | Cost |
-|--------------------------------|--------------------------------------------------|------------------|-----------------------------|------|
+|--------------------------------|--------------------------------------------------|------------------|-----------------------------|------|GitHub
 | ... | ... | ... | ... | ... |
 
 ### Ethical, legal or practical barriers
-...
+1. Privacy and confidentiality: Interviewees may disclose sensitive migration experiences, personal relationships, or identifiable information about themselves and others.
+2. Re-identification risks: Even anonymised transcripts may identify participants through neighbourhood details, biographies, or distinctive stories.
