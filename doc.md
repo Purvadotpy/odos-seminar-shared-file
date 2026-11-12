@@ -77,8 +77,9 @@ _Additional details (file formats, image resolution, approximate size, metadata 
 **About the study:** The study combined high-frequency seismic and gas emission data from field instruments near Mount Etna. It found that rises in gas emissions and changes in seismic tremor appeared before periods of eruptive activity, suggesting that monitoring both together gives earlier and more reliable warning than either signal alone.
 
 ### Group members
-- ...
-- ...
+- Irmak Özdemir
+- Serap Türk
+- Nathanael Sheehan
 
 ### About our data
 **Volcanology Sensor Dataset** – high-frequency seismic and gas emission data from field instruments near Mount Etna.
@@ -123,10 +124,8 @@ _Additional details (instruments, sampling rate, time period, file formats, appr
 **About the study:** The study used hydrophone recordings from the North Sea to monitor whale communication alongside ship noise. It found that when ship noise was high, whales called less often and changed the pitch and loudness of their calls, indicating that shipping noise interferes with their ability to communicate.
 
 ### Group members
-- Justine
-- Qurat ul Ain
-- Atena
-- Eli
+- ...
+- ...
 
 ### About our data
 **Marine Acoustic Monitoring** – hydrophone recordings from the North Sea monitoring whale communication and ship noise.
@@ -207,14 +206,16 @@ _Additional details (interview length, language(s), transcripts, consent forms, 
 
 | Repository | Why this repository | Access level (open / restricted / on request) | Licence | Cost of deposit |
 |------------|---------------------|-----------------------------------------------|---------|-----------------|
-| ... | ... | ... | ... | ... |
+| Zenodo | Zenodo is a free and open digital archive built by CERN and OpenAIRE, enabling researchers to share and preserve research output in any format | Open Access | CC BY-ND | 0 Euros |
 
 ### Where we aim to publish
 
 | Option | Open access route (gold / green / diamond / preprint) | Estimated cost (APC) | Notes |
 |--------|------------------------------------------------------|----------------------|-------|
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+| Open Cultural Studies | Gold | 1050 Euro + VAT | Scholarly journal that explores the fields of Humanities, Social Sciences and Arts. |
+| Culture & History Digital Journal | Diamond | 0 Euro | The Journal aims to move beyond traditional, strictly chronological narratives and purely textual analysis. |
+| mediaTUM | Preprint | 0 Euro | Used to publish working papers, preprints, postprints, and research data while serving as TUM's in-house institutional repository. |
+| SocArxiv | Green | 0 Euro | Open archive of the social sciences, provides a free, non-profit, open access platform for social scientists to upload working papers, preprints, and published papers, with the option to link data and code. |
 
 ### Where we will put our software / code
 
