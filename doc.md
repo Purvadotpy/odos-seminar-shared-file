@@ -90,10 +90,10 @@ _Additional details (instruments, sampling rate, time period, file formats, appr
 
 | Principle | What we will do |
 |-----------|-----------------|
-| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | To make our volcanology and seismology dataset findable, we would assign it a unique and persistent identifier, such as a DOI. We would also include detailed metadata, such as the location, time range, coordinates, measurements, and sensor types. The metadata should clearly include the dataset's DOI so that people can identify it easily. Finally, we would publish the dataset on a searchable platform like Zenodo, so other researchers can find and access it. |
-| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | To make our volcanology and seismology dataset accessible, researchers could access the data using a standard, open, and free protocol like HTTPS. If necessary, we could use a login and permission system to control access to sensitive data. We should also make sure that the metadata remains available even if the dataset is removed or no longer accessible. For example, we could keep information about monitoring stations and regularly back up both the data and metadata. |
-| **Interoperable** (standard formats, shared vocabularies) | To make our volcanology and seismology dataset interoperable, we could use SOSA, which stands for Sensor, Observation, Sample, and Actuator. This would help us describe our data using shared and standardized terms, such as sensors and observations. We could also link each observation to the sensor that collected the data. This would make it easier for other researchers and systems to understand and use our dataset. |
-| **Reusable** (clear licence, provenance, community standards) | To make our volcanology and seismology dataset reusable, we should provide information about data quality and any missing data. We would also use a clear license, such as CC BY 4.0, so other researchers can reuse the data with proper credit. We should document where the data comes from, including the organisations and monitoring stations involved. Finally, we would follow international standards, such as FDSN standards for seismological data, to make sure our dataset can be easily understood and reused by other researchers. |
+| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | ... |
+| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | ... |
+| **Interoperable** (standard formats, shared vocabularies) | ... |
+| **Reusable** (clear licence, provenance, community standards) | ... |
 
 ### Where we will deposit the data
 
@@ -197,8 +197,10 @@ _Additional details (interview length, language(s), transcripts, consent forms, 
 
 | Option | Open access route (gold / green / diamond / preprint) | Estimated cost (APC) | Notes |
 |--------|------------------------------------------------------|----------------------|-------|
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+| Open Cultural Studies | Gold | 1050 Euro + VAT | Scholarly journal that explores the fields of Humanities, Social Sciences and Arts. |
+| Culture & History Digital Journal | Diamond | 0 Euro | The Journal aims to move beyond traditional, strictly chronological narratives and purely textual analysis. |
+| mediaTUM | Preprint | 0 Euro | Used to publish working papers, preprints, postprints, and research data while serving as TUM's in-house institutional repository. |
+| SocArxiv | Green | 0 Euro | Open archive of the social sciences, provides a free, non-profit, open access platform for social scientists to upload working papers, preprints, and published papers, with the option to link data and code. |
 
 ### Where we will put our software / code
 
